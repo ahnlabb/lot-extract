@@ -5,8 +5,6 @@ node_modules/
 *.db
 elm-stuff
 SiteData.elm
-./index.html
-app.js
 style.css
 yarn.lock
 poetry.lock
